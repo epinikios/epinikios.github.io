@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Epinikios
+title: Epinikios: l'information tech francophone, en temps réel 
 email: contact@epinikios.com
 description: >- # this means to ignore newlines until "baseurl:"
   Les nouvelles du monde technologique, des qu’elles sont discutées.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+twitter_username: epinikios
+github_username: epinikios
 
 # Build settings
 theme: minima
