@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Epic Games indemnisera ses victimes avec sa propre monnaie virtuelle"
+date: 2021-02-23 23:23:00 +0000
+lang: fr
+categories: news
+---
+
+Epic Games, Inc. est un studio américain développant plusieurs jeux vidéo très connus tels que Fortnite et ayant comme actionnaire a 40% l’entreprise chinoise Tencent.
+
+Une [action de groupe](https://www.scribd.com/document/400774803/Epic-sued-over-loot-boxes-by-a-minor-in-potential-class-action-lawsuit) (« class action ») fut lancée contre Epic après l’introduction de boites au trésor virtuelles dans les jeux Fortnite et Rocket League, coutant de l’argent lui-même très réel. 
+
+En plus de la similarité à un casino virtuel, il était reproché à Epic d’avoir baissé le prix du jeu Fortnite Save the World afin d’attirer de jeunes joueurs et de les faire dépenser leurs dollars sur lesdites boites pour progresser dans le jeu. 
+
+Aujourd’hui, [Epic propose](https://www.epicgames.com/fortnite/en-US/news/fortnite-save-the-world-loot-llama-purchasers-to-receive-1000-v-bucks) d’indemniser les joueurs affectés en les payant avec sa propre monnaie virtuelle, les « V-bucks », les forçant à se connecter pour profiter du paiement. La conversion en dollars étant interdite aux mineurs, ceux-ci devront dépenser leur indemnisation dans les jeux Epic…
+
